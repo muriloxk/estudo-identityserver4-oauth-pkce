@@ -1,7 +1,11 @@
 ﻿using AutoMapper;
 using IdentityServer4.AccessTokenValidation;
+using ImageGallery.API.Authorization.MustOwnImage;
+using ImageGallery.API.Authorization.MustOwnImage.Handlers;
 using ImageGallery.API.Entities;
 using ImageGallery.API.Services;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -21,18 +25,35 @@ namespace ImageGallery.API
         {
             Configuration = configuration;
         }
-        
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers()
                     .AddJsonOptions(opts => opts.JsonSerializerOptions.PropertyNamingPolicy = null);
 
+            services.AddHttpContextAccessor();
+            services.AddScoped<AuthorizationHandler<MustOwnImageRequirement>, MustOwnImageHandler>();
+
+            services.AddAuthorization(authorizationOptions =>
+            {
+                authorizationOptions.AddPolicy(
+                    "MustOwnImage",
+                    policyBuilder =>
+                    {
+                        policyBuilder.RequireAuthenticatedUser();
+                        policyBuilder.AddRequirements(
+                            new MustOwnImageRequirement());
+                    });
+            });
+
             services.AddAuthentication(IdentityServerAuthenticationDefaults.AuthenticationScheme)
                     .AddIdentityServerAuthentication(options =>
                     {
                         options.Authority = "http://localhost:44318";
                         options.ApiName = "imagegalleryapi";
+                        options.RequireHttpsMetadata = false;
+                        
                     });
 
             // register the DbContext on the container, getting the connection string from
@@ -72,7 +93,7 @@ namespace ImageGallery.API
                 });
                 // The default HSTS value is 30 days. You may want to change this for 
                 // production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
+                //app.UseHsts();
             }
 
             app.UseHttpsRedirection();
@@ -81,9 +102,11 @@ namespace ImageGallery.API
 
             app.UseRouting();
 
-            app.UseAuthentication();
 
             app.UseAuthorization();
+
+            app.UseAuthentication();
+
 
             app.UseEndpoints(endpoints =>
             {

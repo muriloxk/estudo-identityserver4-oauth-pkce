@@ -12,6 +12,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="wwwroot\" />
+    <Folder Include="Authorization\" />
+    <Folder Include="Authorization\MustOwnImage\" />
+    <Folder Include="Authorization\MustOwnImage\Handlers\" />
   </ItemGroup>
 
   <ItemGroup>

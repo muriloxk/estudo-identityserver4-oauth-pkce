@@ -12,7 +12,7 @@ namespace ImageGallery.API.Controllers
 {
     [Route("api/images")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class ImagesController : ControllerBase
     {
         private readonly IGalleryRepository _galleryRepository;
@@ -120,6 +120,7 @@ namespace ImageGallery.API.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize("MustOwnImage")]
         public IActionResult UpdateImage(Guid id, 
             [FromBody] ImageForUpdate imageForUpdate)
         {

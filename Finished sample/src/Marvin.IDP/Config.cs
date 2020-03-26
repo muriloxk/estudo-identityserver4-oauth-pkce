@@ -55,13 +55,14 @@ namespace Marvin.IDP
                     ClientId = "imagegalleryclient",
                     AllowedGrantTypes = GrantTypes.Code,
                     RequirePkce = true,
+                    
                     RedirectUris = new List<string>()
                     {
-                        "https://localhost:44389/signin-oidc"
+                        "http://localhost:44369/signin-oidc"
                     },
                     PostLogoutRedirectUris = new List<string>()
                     {
-                        "https://localhost:44389/signout-callback-oidc"
+                        "http://localhost:44369/signout-callback-oidc"
                     },
                     AllowedScopes =
                     {

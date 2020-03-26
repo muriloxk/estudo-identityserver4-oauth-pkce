@@ -1,9 +1,12 @@
 ﻿using ImageGallery.Client.ViewModels;
 using ImageGallery.Model;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Protocols.OpenIdConnect;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
@@ -25,6 +28,9 @@ namespace ImageGallery.Client.Controllers
 
         public async Task<IActionResult> Index()
         {
+
+            await WriteOtIdentityInformation();
+
             var httpClient = _httpClientFactory.CreateClient("APIClient");
 
             var request = new HttpRequestMessage(
@@ -41,6 +47,18 @@ namespace ImageGallery.Client.Controllers
                 return View(new GalleryIndexViewModel(
                     await JsonSerializer.DeserializeAsync<List<Image>>(responseStream)));
             }             
+        }
+
+        private async Task WriteOtIdentityInformation()
+        {
+            var identityToken = await HttpContext.GetTokenAsync(OpenIdConnectParameterNames.IdToken);
+
+            Debug.WriteLine($"Identity token: { identityToken }");
+
+            foreach (var claim in User.Claims)
+            {
+                Debug.WriteLine($"Claim type: { claim.Type } - Claim value: { claim.Value }");
+            }
         }
 
         public async Task<IActionResult> EditImage(Guid id)

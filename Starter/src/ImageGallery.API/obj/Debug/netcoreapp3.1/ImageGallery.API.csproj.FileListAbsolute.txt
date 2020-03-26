@@ -84,3 +84,14 @@
 /Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.dll
 /Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.pdb
 /Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.genruntimeconfig.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/IdentityModel.AspNetCore.OAuth2Introspection.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/IdentityServer4.AccessTokenValidation.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
