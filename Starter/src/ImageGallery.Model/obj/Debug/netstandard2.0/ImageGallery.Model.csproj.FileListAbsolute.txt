@@ -1,0 +1,18 @@
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.deps.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csprojAssemblyReference.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csproj.CoreCompileInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfoInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfo.cs
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.deps.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/bin/Debug/netstandard2.0/ImageGallery.Model.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csprojAssemblyReference.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.csproj.CoreCompileInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfoInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.AssemblyInfo.cs
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.Model/obj/Debug/netstandard2.0/ImageGallery.Model.pdb

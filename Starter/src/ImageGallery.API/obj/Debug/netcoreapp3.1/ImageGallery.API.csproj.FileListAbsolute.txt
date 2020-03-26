@@ -1,0 +1,86 @@
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.deps.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.runtimeconfig.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.runtimeconfig.dev.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.Model.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.Model.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.csprojAssemblyReference.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.csproj.CoreCompileInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.AssemblyInfoInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.AssemblyInfo.cs
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.RazorTargetAssemblyInfo.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.csproj.CopyComplete
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/staticwebassets/ImageGallery.API.StaticWebAssets.Manifest.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/staticwebassets/ImageGallery.API.StaticWebAssets.xml
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter files/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.genruntimeconfig.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.deps.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.runtimeconfig.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.runtimeconfig.dev.json
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.API.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.Model.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/bin/Debug/netcoreapp3.1/ImageGallery.Model.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.csprojAssemblyReference.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.csproj.CoreCompileInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.AssemblyInfoInputs.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.AssemblyInfo.cs
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.RazorTargetAssemblyInfo.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.csproj.CopyComplete
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/staticwebassets/ImageGallery.API.StaticWebAssets.Manifest.cache
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/staticwebassets/ImageGallery.API.StaticWebAssets.xml
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.dll
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.pdb
+/Users/murilosanches/Projects/SecuringAspNetCore3WithOAuth2AndOIDC-master/Starter/src/ImageGallery.API/obj/Debug/netcoreapp3.1/ImageGallery.API.genruntimeconfig.cache

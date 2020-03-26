@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{06D1048B-31A1-4FAA-BDDE-B098EBADAF85}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.ImageGallery.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/ImageGallery.Client/Controllers/GalleryController.cs">
+    <Files>
+      <File FileName="src/ImageGallery.Client/Startup.cs" Line="78" Column="36" />
+      <File FileName="src/ImageGallery.Client/Properties/launchSettings.json" Line="28" Column="2" />
+      <File FileName="src/ImageGallery.Client/Controllers/GalleryController.cs" Line="14" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ImageGallery" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="ImageGallery.Client" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="GalleryController.cs" selected="True" />
+                </Node>
+                <Node name="Properties" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.ImageGallery.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="All" Name="All">
+      <Items>
+        <StartupItem ItemId="{7D9427C2-D6BB-4807-B28E-D51BA271FBD8}" ItemName="ImageGallery.API" ConfigurationId="Default" />
+        <StartupItem ItemId="{06D1048B-31A1-4FAA-BDDE-B098EBADAF85}" ItemName="ImageGallery.Client" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
