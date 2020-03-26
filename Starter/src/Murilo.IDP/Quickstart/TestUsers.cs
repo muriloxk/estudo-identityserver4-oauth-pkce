@@ -20,6 +20,9 @@ namespace Murilo.IDP
                      new Claim("given_name", "Frank"),
                      new Claim("family_name", "Underwood"),
                      new Claim("address", "Main Road 1"),
+                     new Claim("role", "FreeUser"),
+                     new Claim("subscriptionlevel", "FreeUser"),
+                     new Claim("country", "n1")
                  }
              },
              new TestUser
