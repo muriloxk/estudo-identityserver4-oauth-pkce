@@ -60,6 +60,7 @@ namespace ImageGallery.API.Controllers
             return Ok(imageToReturn);
         }
 
+        [Authorize(Roles = "PayingUser")]
         [HttpPost()]
         public IActionResult CreateImage([FromBody] ImageForCreation imageForCreation)
         {
