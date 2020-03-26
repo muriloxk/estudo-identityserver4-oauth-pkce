@@ -10,6 +10,6 @@ Artigos:
 
 
 Cursos:
-- https://app.pluralsight.com/library/courses/asp-dotnet-core-oauth2-openid-connect-securing/table-of-contents?aid=7010a000002BWqBAAW
+- https://app.pluralsight.com/library/courses/securing-aspnet-core-3-oauth2-openid-connect/table-of-contents
 - https://app.pluralsight.com/library/courses/authentication-authorization-aspnet-core/table-of-contents?aid=7010a000002BWqBAAW
 - https://app.pluralsight.com/library/courses/openid-and-oauth2-securing-angular-apps/table-of-contents?aid=7010a000002BWqBAAW
