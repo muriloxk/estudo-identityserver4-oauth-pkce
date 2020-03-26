@@ -18,7 +18,9 @@ namespace Murilo.IDP
 
         public static IEnumerable<ApiResource> Apis =>
             new ApiResource[] 
-            { };
+            { 
+                new ApiResource("imagegalleryapi", "Image Gallery API"),
+            };
         
         public static IEnumerable<Client> Clients =>
             new Client[] 
@@ -34,7 +36,10 @@ namespace Murilo.IDP
                     },
                     AllowedScopes = {
                         IdentityServerConstants.StandardScopes.OpenId, 
-                        IdentityServerConstants.StandardScopes.Profile
+                        IdentityServerConstants.StandardScopes.Profile,
+                        IdentityServerConstants.StandardScopes.Address,
+                        "roles",
+                        "imagegalleryapi"
                     },
                     ClientSecrets = {
                         new Secret("Secret".Sha256())
